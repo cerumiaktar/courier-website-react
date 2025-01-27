@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co.com/XLF5QD3/Package-Pickup-Service.png",
+        "title": "Package Pickup Service"
+    },
+    {
+        "id": 2,
+        "img": "https://example.com/images/service2.jpg",
+        "title": "International Shipping"
+    },
+    {
+        "id": 3,
+        "img": "https://example.com/images/service3.jpg",
+        "title": "On-Demand Delivery"
+    },
+    {
+        "id": 4,
+        "img": "https://example.com/images/service4.jpg",
+        "title": "Business Courier Solutions"
+    }
+]
