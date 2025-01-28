@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-
+import { FaUser } from "react-icons/fa6";
 
 const Navbar = () => {
     const links = <>
@@ -42,10 +42,13 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn text-xl">Button</a>
+                    <button className="btn bg-[#068DBE] text-white transition-all duration-200 group"> 
+                        <span className="group-hover:block hidden transition-all duration-200">Sign in</span>
+                        <FaUser />
+                    </button>
                 </div>
             </div>
-        </div>
+        </div> 
     );
 };
 

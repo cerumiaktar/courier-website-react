@@ -6,17 +6,17 @@
     },
     {
         "id": 2,
-        "img": "https://example.com/images/service2.jpg",
+        "img": "https://i.ibb.co.com/FwjWFjH/International-Shipping-2-1.png",
         "title": "International Shipping"
     },
     {
         "id": 3,
-        "img": "https://example.com/images/service3.jpg",
+        "img": "https://i.ibb.co.com/XJ9HFry/on-demand-1.png",
         "title": "On-Demand Delivery"
     },
     {
         "id": 4,
-        "img": "https://example.com/images/service4.jpg",
+        "img": "https://i.ibb.co.com/Y0TZJYs/Business-Courier-Solutions.png",
         "title": "Business Courier Solutions"
     }
 ]
