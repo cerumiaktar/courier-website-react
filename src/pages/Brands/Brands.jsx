@@ -19,6 +19,11 @@ const Brands = () => {
                     brands.map(brand => <Brand brand={brand}></Brand>)
                 }
             </div>
+            <div className=" flex justify-center gap-3 mt-6">
+                <p className="w-3 h-3 bg-[#068DBE] rounded-full"></p>
+                <p className="w-3 h-3 bg-[#D9D9D9] rounded-full"></p>
+                <p className="w-3 h-3 bg-[#D9D9D9] rounded-full"></p>
+            </div>
         </div>
     );
 };
